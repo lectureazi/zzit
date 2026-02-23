@@ -3,9 +3,10 @@
 
 ### phase 1
 1. objects 구현
-  *  blob
-  *  tree
-  *  commit hash 구현
+1-1.  blob
+1-2.  tree
+1-3.  commit hash 구현
+
 2. 브랜치 포인터 구현
 3. index 구현
 
